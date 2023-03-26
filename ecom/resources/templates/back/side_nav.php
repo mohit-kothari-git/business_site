@@ -1,0 +1,37 @@
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+    <ul class="nav navbar-nav side-nav">
+        <li class="active">
+            <a href="index.php"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
+        </li>
+        <li class= "">
+            <a href="index.php?orders"><i class="fa fa-fw fa fa-cart-arrow-down"></i> Orders</a>
+        </li>
+        <li class= "">
+            <a href="index.php?order_status"><i class="fas fa-sync-alt"></i> Order Status</a>
+        </li>
+        <li>
+            <a href="index.php?products"><i class="fa fa-eye"></i> View Products</a>
+        </li>
+        <!-- <li>
+            <a href="index.php?edit_products"><i class="fa fa-fw fa-table"></i> Edit Products</a>
+        </li>
+ -->        <li>
+            <a href="index.php?add_product"><i class="fa fa-cart-plus"></i> Add Product</a>
+        </li>
+        <li>
+            <a href="index.php?categories"><i class="fa fa-fw fa-desktop"></i> Categories</a>
+        </li>
+        <li>
+            <a href="index.php?users"><i class="fa fa-users" aria-hidden="true"></i> Users</a>
+        </li>
+        <!-- <li>
+            <a href="index.php?add_user"><i class="fa fa-fw fa-wrench"></i>Add Users</a>
+        </li> --> 
+        <li>
+            <a href="index.php?reports"><i class="fa fa-fw fa-bar-chart-o"></i> Reports</a>
+        </li>
+        <li>
+            <a href="index.php?slides"><i class="fa fa-window-restore"></i> Slides</a>
+        </li> 
+    </ul>
+</div>
